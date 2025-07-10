@@ -77,7 +77,7 @@ Mobile | Browser + Add to Home Screen | Host it on a server (Flet Cloud or custo
 
 > You write **one codebase**, and Flet makes it run on all platforms.
 
-## 1.5 Recap for Day 1:
+## 1.6 Recap for Day 1:
 - Flet is a Python UI frameword built on top of Flutter.
 - It supports Desktop, Web, and Mobile (via PWA).
 - Installs easily via pip in runs with `flet.app(...)`.
